@@ -1,0 +1,27 @@
+{
+    "bin": {
+        "id": "na7f8lja1ogoha8p",
+        "readonly": false,
+        "bytes": 0,
+        "bytes_readable": "",
+        "files": 0,
+        "updated_at": "2025-11-10T08:13:10.307264Z",
+        "updated_at_relative": "5 seconds ago",
+        "created_at": "2025-11-10T08:13:04.14885Z",
+        "created_at_relative": "4 seconds ago",
+        "expired_at": "2025-11-17T08:13:10.307264Z",
+        "expired_at_relative": "6 days from now"
+    },
+    "file": {
+        "filename": "wrapped.txt",
+        "content-type": "application/octet-stream",
+        "bytes": 4750,
+        "bytes_readable": "4.8 kB",
+        "md5": "MmMzZTk5NTJkZDdjZTg0YTE4ZmFiMDczM2YxZTViODA=",
+        "sha256": "405ffbb5654e2373674d63d99b4d4b8395e46aae8dbaf4762f99bfbda3ed675c",
+        "updated_at": "2025-11-10T08:13:09.703376Z",
+        "updated_at_relative": "now",
+        "created_at": "2025-11-10T08:13:09.703376Z",
+        "created_at_relative": "now"
+    }
+}
